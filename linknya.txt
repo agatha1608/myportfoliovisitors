@@ -1,0 +1,7 @@
+https://api.countapi.xyz/create?namespace=mysite.com&value=42
+
+https://api.countapi.xyz/create?namespace=agathaport.com&key=at16&value=0
+
+https://api.countapi.xyz/get/agathaport.com/at16
+
+https://api.countapi.xyz/update/agathaport.com/at16/?amount=1
